@@ -1,6 +1,6 @@
 # Sign-Up Flow Optimization Analysis
 
-![Signup Flow Dashboard](EDA_Images/Recording%202025-11-20%20012933.gif)
+![Signup Flow Dashboard](EDA_Images/Story_dashboard_gif.gif)
 
 ## Overview
 
@@ -48,7 +48,7 @@ This foundation enabled a clear picture of why sign-ups fail, and where optimiza
 
 #### **1. Device-Level Failure Rates (Bar Chart)**
 
-![Device Failure Rates](Analysis_Images/Device_Failure_Rates.png)
+![Device Failure Rates](EDA_Images/Devices.png)
 
 - **Desktop Failure Rate:** 1.16%  
 - **Mobile Failure Rate:** 3.24%  

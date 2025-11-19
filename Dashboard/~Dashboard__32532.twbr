@@ -2211,10 +2211,6 @@
           <style-rule element='header'>
             <format attr='width' field='[federated.1k1na6908a18801dqdj2e1rys4vz].[none:error_message:nk]' value='204' />
           </style-rule>
-          <style-rule element='gridline'>
-            <format attr='stroke-size' scope='cols' value='0' />
-            <format attr='line-visibility' scope='cols' value='off' />
-          </style-rule>
         </style>
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
@@ -2455,12 +2451,7 @@
           </slices>
           <aggregation value='true' />
         </view>
-        <style>
-          <style-rule element='gridline'>
-            <format attr='stroke-size' scope='rows' value='0' />
-            <format attr='line-visibility' scope='rows' value='off' />
-          </style-rule>
-        </style>
+        <style />
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
             <view>
@@ -2727,10 +2718,6 @@
         <style>
           <style-rule element='header'>
             <format attr='width' field='[federated.0os5h601f2ipod0zopygu1gzgrjf].[none:error_message:nk]' value='284' />
-          </style-rule>
-          <style-rule element='gridline'>
-            <format attr='stroke-size' scope='cols' value='0' />
-            <format attr='line-visibility' scope='cols' value='off' />
           </style-rule>
         </style>
         <panes>
@@ -4146,7 +4133,7 @@
       </viewpoint>
       <simple-id uuid='{BD0E5DAA-0081-4342-9270-DC1F1490ED8F}' />
     </window>
-    <window class='worksheet' name='Signup Types'>
+    <window class='worksheet' maximized='true' name='Signup Types'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -4182,7 +4169,7 @@
       </viewpoint>
       <simple-id uuid='{384B724A-9180-439C-AB25-C566E47326A6}' />
     </window>
-    <window class='worksheet' maximized='true' name='signup_errors'>
+    <window class='worksheet' name='signup_errors'>
       <cards>
         <edge name='left'>
           <strip size='160'>
